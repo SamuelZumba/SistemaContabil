@@ -33,7 +33,7 @@ Desenvolvido por Samuel Zumba. Atualmente sou estudante de Análise e Desenvolvi
 2.  Gerenciar e estruturar dados financeiros para relatórios analíticos.
 3.  Desenvolver soluções Full Stack, integrando futuramente esses conhecimentos com frameworks como React e Node.js.
 
-
+# COMO TESTAR:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SamuelZumba/micali-contabilidade.git](https://github.com/SamuelZumba/micali-contabilidade.git)
